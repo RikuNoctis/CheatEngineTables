@@ -1,0 +1,565 @@
+NOTE** (↑: is Plus effect;↓:is Minus effect)
+~~~~~~~~~~~~~~ 1 and 2 skill ~~~~~~~~~~~~~~~~~
+
+
+1 - Blood Duration
+2 - Total Evoke Rate↑
+3 ====CRASH=====
+4 ====CRASH=====
+5 - In Burst Total Evoke Rate↑
+6 - In Burst Firm Stand
+7 - In Burst Item Effect Speed
+8 - In Burst Item Effect Duration
+9 - In Burst Item Speed
+10 - In Burst Oracle Absorption
+11 - In Burst Oracle Auto Recovery
+12 - In Burst Guard Stamina↓
+13 - In Burst Reduced Guard Damage
+14 - In Burst Combo Master
+15 - In Burst Stamina Auto Recovery
+16 - In Burst Sensitive
+17 - In Burst Link Aid Strengthen
+18 - In Burst HP Auto Recovery
+19 - In Burst Recovery Item Speed
+20 - In Burst Heal Bullet OP Use↓
+21 - In Burst Devour Bullet Quantity
+22 - In Burst Enemy HP Vision
+23 - In Burst Hate Control
+24 - In Burst Debuff Stacking
+25 - In Burst Total Debuff Resistance
+26 - In Burst Mid Air Melee ATK
+27 - In Burst Hate Up↑
+28 - In Burst DEF
+29 - In Burst Prepared
+30 - In Burst Super Muted
+31 - In Burst Melee ATK HP Absorb
+32 - Burst Melee
+33 - Burst Gun
+34 - Exaggerated
+35 - Firm Stand
+36 - Item Speed
+37 - Item Effect
+38 - Item Effect Duration
+39 - Acrobat Team
+40 - Athlete Level 10
+41 - OP Up↑
+42 - Oracle Absorb
+43 - Auto Aim
+44 - Auto Guard
+45 - Charisma Level 10
+46 - Guard Radius
+47 - Reduced Guard Damage
+48 - Guard Speed
+49 - Gourmet
+50 - Combo Master
+51 - Jamming Resistance
+52 - Stamina
+53 - Stamina Auto Recovery
+54 - Stun Resistance
+55 - Steps Master
+56 - Step Distance
+57 - Trigger Happpy
+58 - Knockback Distance
+59 - Hidden Attack
+60 - Burst Duration
+61 - Pyro Master
+62 - DIsable Homing
+63 - Hold
+64 - Bomb master
+65 - Sensitive (Enemy Status on the map it isn't show Enemy Health!!! )
+66 - Leak Resistance
+67 - God of Rare Drops
+68 - Laser Master
+69 - Venom Attack
+70 - Venom Resistance
+71 - Close Quarters Attack
+72 - Close Quarters Defend
+73 - HP
+74 - All out Attack
+75 - Rare Items for All
+76 - Share the Wealth
+77 - Sword Master
+78 - Friendship
+79 - Medic
+80 - Dexterous
+81 - Lucky
+82 - Giving
+83 - Bind
+84 - Ammo Master
+85 - Mutual Burst
+86 - Wrath of Revenge
+87 - Devour Oracle Absorb
+88 - Devour Bullet Power
+89 - Devour HP Absorb
+90 - Link Recovery Amount
+91 - Aid Burst
+92 - Calm Breather
+93 - Enemy HP Vision
+94 - Greedy
+95 - Muted
+96 - Charge Ability Speed
+97 - Adrenaline Rush
+98 - Debuff Stacking
+99 - Survival Instinct
+100 - Wild Instinct
+101 - Enemy Calm
+102 - Connoiseur
+103 - Double Jump
+104 - Hate Up↑ (Hate Effect)
+105 - Frugal ( Oracle consump↓)
+106 - DEF
+107 ====CRASH==== !!!
+108 - Blood Awake
+109 - Bullet Awake
+111 - Beloved
+112 - Melee
+113 - Melee Speed
+114 - Special Melee Stamina Use
+115 - Melee Specialist
+116 - Speed
+117 -Gun Lock
+118 - Gun Power
+119 - Gun Speed Specialist
+120 - Gun Focus Specialist
+121 - Covert Team
+122 - Exterminator
+123 - Critical Evoke
+124 - Just Guard Evoke
+125 - Just Guard HP Restore
+126 - Just Guard OP Restore
+127 - Just Guard Stamina Restore
+131 to 128 ====CRASH==== Dont test it !!!
+132 - Stamina + Melee ATK Specialist (Way of The Blade)
+133 - In Burst Mid Air Melee ATK + Mid Air Jump (Way of Flight)
+135 - All out Attck + Athlete
+137 - Athlete + Steps Master (Fleet Foot)
+138 - Combo Master + Melee Attack Specialist
+139 - Combo Master + Knockback
+140 - Stamina + Steps Master
+141 - HP↑ + Devour HP Absorb (Steel Bite)
+142 - DEF + Reduced Guard Damage (Guardian)
+143 - Connoisseur + Lucky (Great Luck)
+144 - Rare Item For All + Share the Wealth (Seventh Heaven)
+145 - Laser Master + Jamming Resistance (Sure Shooter)
+146 - Hidden ATK + Muted↑ (Silent Killing)
+147 - Hidden Attack + Hate Up↓ (Swift Strike)
+148 - Combo Master + Wild Instinct (Battle Instinct)
+149 - Survival Instinct + Steps Master + (Natural Instinct)
+150 - Mid Air Jump + Melee ATK (Castling)
+151 - In Burst Mid Air Melee ATK + Devour HP Absorb (Sky Devourer)
+152 - Charisma + Melee ATK (Frontline Officer)
+155 - DEF + Steps Master (Hard Dogde)
+156 - In Burst Stamina Auto Recovery + Stamina (Spirit Service)
+157 - DEF + Aid Recovery Amount
+158 - Debuff Stacking + Mid Air Jump (Bacillius)
+159 - HP + Stamina
+160 - Reduced Guard Damage + Guard Radius (Large Shield)
+161 - Stamina + Mid Air Jump
+163 - Steps Master + Steps Distance (Seven League Boots)
+164 - Guard Radius + Combo Master (White Fox Dance)
+165 - In Burst Melee ATK + In Burst Hate Up↓ (Fox Invitation)
+166 - In Burst Melee ATK + Debuff Stacking
+167 - Muted↓ + Melee ATK (War Cry)
+168 - DEF + Melee ATK
+169 - Reduced Guard Damage + Mutual Burst
+170 - In Burst Melee + In Burst Red Guard
+171 - Reduced Guard Damage + Firm Stand
+172 - Just Guard HP Restore + Close Quarter DEF (Returner)
+174 - Combo Master + Athlete (Dance of Blades)
+176 - Item Speed + Item Effect (Tool Use)
+177 - In Burst DEF + In Burst Firm Stand
+178 - Athlete + Total Evoke Rate (Thirst)
+180 - Mutual Burst + Prepared (Resolution)
+181 - In Burst Melee ATK HP Absorb + (B) Oracle Auto Recovery (Reincarnation)
+186 - In Burst Melee ATK + Combo Master (RapidFire)
+187 - Oracle Absorption + Athlete ( Guru )
+188 - DEF + Stamina ( Tenacious )
+189 - Calm Breather + Close Quarter ATK
+190 - Oracle + Muted↓ (Battle Cry)
+191 - Oracle Absorption + Steps Master ( Hermit )
+192 - DEF + Ammo Master
+193 - God of Rare Drops + In Burst DEF↓ (Goddess Devotion)
+194 - In Burst Reduced Guard Damage + Gourmet
+195 - HP Vision + Sensitive (Acute Perception)
+196 - Debuff Stacking + Hate Up↓ (Delayed Poison)
+197 - Combo Master + Melee ATK (Sword Dancer)
+198 - Steps Master + Devour HP Absorb (Steal Step)
+200 - Oracle Absoption + Hate Up↓ (Internal Alchemy)
+201 - DEF + Melee ATK Specialist (Dragon Tooth)
+202 - Stamina Auto Recovery + Adrenaline Rush
+203 - DEF + Sensitive
+205 - Close Quarter ATK + Close Quarter DEF (Brawler)
+206 - All out Attack + Stamina (Limit Safety)
+207 - DEF + Devour Oracle Absorb (Defense Drain)
+208 - Sword Master + DEF↓
+209 - Mid Air Jump + Stune Resistance (Unchained)
+210 - DEF + Item Effect ( Careful )
+212 - Stamania + Athlete (Iron Man)
+213 - Wrath of Revenge + Medic (Thoughtful)
+214 - HP + Oracle
+215 - In Burst Heal Bullet OP Use↓ + Hate Up↓ (Soothing Hand)l
+218 - Friendship + Beloved ( Charity )
+221 - In Burst Prepared + (B)Combo Master
+222 - Giving + Sword Master + Mutual Burst (All Around)
+223 - Oracle Absorption + Prepared + Muted↓ (Spirit Roar)
+227 - Stamina + Charge Ability Speed (Quick Work)
+228 - In Burst Melee ATK + Melee Special ATK Stamina↑
+229 - Melee ATK Specialist + Charge Ability Speed (Flying Attack)
+230 - Melee ATK Specialist + Burst Duration (Exploding Attack)
+231 - Combo Master + Exterminator (One Against Many)
+232 - Oracle + Frugal (Bullet Storm)
+233 - Gun Focus Specialist + Gun Speed Specialist (Gun Master)
+235 - Firm Stand + Item Speed
+236 - Dexterous + Sensitive (Eyes Of Tiger)
+237 - DEF + Guard Speed (Preventative Measures)
+238 - Charge Ability Speed + Melee ATK
+239 - Devour HP Absorb + Melee ATK Specialist
+241 - Guard Radius + Wild Instinct
+243 - Reduced Guard Damage + Medic
+245 - Stamina + Guard Radius
+246 - Prepared + Hate Up↑
+247 - Athlete + Venom Resistance
+254 - Oracle Absorb + Devour Oracle Absorb (Inspiration)
+255 - Venom Resistance + Hate Up↓ (Poison Resistance)
+256 - DEF + Bomb Master
+257 - Calm Breather + Adrenaline Rush (Return From the Void)
+258 - Melee ATK + In Burst Melee Attack (Double Strike)
+259 - Hate Up↑ + Melee Special ATK Stamina Use↑ (Warrior's Wit)
+260 - Athlete + Melee ATK (Raider)
+261 - Devour HP Absorb + Melee ATK Specialist
+262 - Just Guard Stamania Restore + Melee ATK Specialist
+263 - In Burst Melee ATK + Melee ATK Specialist
+264 - Hold + Speed↓ (Binding Locus)
+265 - Steps Master + Melee Special ATK Stamina Use↑ (Leap Fang)
+266 - In Burst Melee ATK + DEF
+268 - Combo Master + Stamina Auto Recovery (Iron Wind)
+269 - Stamina + Calm Breather
+270 - Ammo Master + Laser Master (Sharp Shooter)
+274 - Athlete + Just Guard Stamina Restore
+275 - In Burst Stamina Auto Recovery + Charge Ability Speed ( Lively )
+277 - Steps Master + Adrenaline Rush
+278 - HP + Item Effect Duration (Fast Acting)
+279 - DEF + In Burst DEF
+280 - Guard Speed + Calm Breather (First Guard)
+283 - Jamming Resistance + Enemy Calm
+284 - In Burst Mid Melee ATK + Aid Burst (Shooting Star)
+285 - HP + Firm Stand + Exterminator (Determination)
+286 - Covert Team + Charisma
+288 - Oracle + Gun Focus Specialist (Archer)
+289 - Dexterous + Ammo Master ( Gunman )
+290 - Muted + Hate Up↓ (Silencer)
+291 - Stamina + Stamina Auto Recovery
+292 - Devour Oracle Absorption + Dexterous
+293 - In Burst Melee ATK + Gun ATK (Gun Saber)
+294 - Dexterous + Item Effect Duration (Sly Hand)
+295 - Oracle Absorption + Item Speed (Loose Change)
+296 - KnockBack Distance + Exterminator
+297 - Aid Recovery Amount + Hate Up↓
+298 - Medic + Enemy Calm
+299 - HP + Aid Burst
+300 - Oracle + Stamina (Spirit Technique)
+301 - Gourmet + Hate Up↑ (Open Mind)
+302 - Lucky + Enemy Calm↓ (Better or Worse)
+304 - Trigger Happy + Melee ATK↓ (Dora Canon)
+305 - Devour Oracle Absorb + Calm Breather (Breathless Absorb)
+306 - In Burst Sensitive + (B) Hate Up↓ (Mind Watch)
+307 - Stamina + Jamming Resistance (Countermeasures)
+308 - Ammo Master + Melee ATK Specialist (Art of Gun Blade)
+309 - In Burst Melee ATK + (B)Gun ATK (Bayonet)
+310 - Giving↓ + Stamina Auto Recovery (Conserve Strength)
+311 - Aid Recovery Amount + Steps Master (Recover Walker)
+312 - DEF + Stun Resistance ( Iron Body)
+313 - Oracle Absorb + Enemy Calm (Enchanted Calm)
+315 - HP + Hate Up↓ + Enemy Calm (Soul Repose)
+316 - In Burst Gun ATK + Oracle + Athlete (Good Taste)
+317 - Wrath of Revenge + HP + Aid Burst (Spin Attack)
+320 - Laser Master + Muted (Sniping)
+321 - Dexterous + Item Effect (Fine Reaction)
+322 - Oracle + Connoisser (Expectation)
+323 - Hidden Attack + Stamina Auto Recovery (Surprise Attack)
+324 - Exterminator + Stamina Auto Recovery (Sweeper)
+325 - Leak Resistance + Charged Ability Speed (Single Minded)
+326 - Stamina + Combo Master (Rush)
+327 - Medic + Aid Burst (Crusader)
+328 - Disable Homing + Hidden ATK (Scorpion's Sting)
+329 - Laser Master + Gun Speed Specialist ( Flash )
+330 - Enemy HP Vision + Close Quarter DEF (Observant)
+331 - Stun Resistance + Enemy Calm (Poker Face)
+332 - Oracle + Muted (Silent Butterfly)
+333 - In Burst Oracle Absorption + (B) Oracle Auto Recovery (Nirvana)
+334 - Sensitive + Charisma (Reconnaissance Unit)
+335 - Speed↓ + Frugal (Fixed Battery)
+336 - DEF + Exterminator (Herald)
+337 - Stamina + Gun Speed Specialist (Quick Charge)
+338 - DEF + Just Guard OP Restore (Ballistic Absorb)
+339 - (B)Prepared + Burst Duration (Determination)
+340 - Auto Guard + Prepared (Reflex)
+346 - Bomb Master + Muted (Silent Bomber)
+347 - Stamina + Devour HP Absorb (Power Bite)
+348 - Gun ATK + Gun Focus Specialist (Experian Gunner)
+349 - Vemon Resistance + Stun Resistance (Anti Body)
+350 - Aid Recovery Amount + Aid Burst (Divine Hand)
+351 - Debuff Stacking + Sensitive (Posion Snake)
+352 - Dexterous + Melee ATK Specialist (Divine Power)
+353 - Devour Bullet Power + Reduced Guard Damage (Silver Bullet)
+354 - Stamina + Melee Special ATK Stamina↑ (Natural State)
+355 - Stamina + Devour Oracle Absorb (Energy Bite)
+357 - DEF↓ + Trigger Happy (Gunner's High)
+358 - Oracle + Bomb Master (Bigger Bombe)
+359 - Oracle + Pyro Master (Radiator)
+360 - Step Master + Calm Breather (Scamper)
+361 - Athlete + Gun Speed Specialist (Gunner's Trick)
+362 - HP + Charisma (Superior Comand)
+363 - Dexterous↓ + Item Effect Duration (Fuel Efficient)
+365 - Enemy HP Vision + Reduced Guard Damage (Stone Eyed)
+367 - Charisma + Muted (Shadow Vizier)
+368 - In Burst Firm Stand + Burst Duration (Over Run)
+373 - Bomb Master + Muted (Point Blank)
+374 - Sensitive + Close Quarter DEF (Awareness)
+375 - Leak Resistance + Jamming Resistance (Descrambler)
+376 - Oracle↓ + Combo Master (Ardent)
+377 - Mid Air Jump + Hate Up↓ (Air Ride)
+378 - In Burst Gun ATK + (B)Mid Air Melee ATK (Meteor Shooter)
+379 - In Burst Oracle Absorption + Devour Oracle Absorb (Mana Drinker)
+380 - Dexterous + Gun Focus Specialist (Gunsmith)
+381 - DEF + Gun Speed Specialist (Cavalry)
+382 - Disable Homing + Oracle Absorption (Eternal Truth)
+383 - Oracle + Oracle Absorption (Open Air)
+384 - Devour Bullet Power + Dexterous
+385 - Auto Guard + Mid Air Jump (Flying Shield)
+386 - Stamina + Giving↓ (Self Control)
+387 - DEF + Gourment (Gourmand)
+388 - Melee ATK Speed + Greedy (Desire)
+393 - HP + Reduced Guard Damage (Way of Defense)
+394 - In Burst Reduced Guard Damage + Guard Radius (Great Shield)
+395 - Stamina + Close Quarter DEF ( Gladiator )
+396 - KnockBack Distance + Melee ATK (In Fighter)
+397 - Just Guard Stamina Restore + JG HP Restore (Offensive Defense)
+398 - Aid Recovery Amount + Gun Speed Specialist (Gunner's Touch)
+399 - In Burst Heal Bullet OP Use + Devour Oracle Absorption (Therapist)
+400 - Enemy HP Vision + Exaggerated (Over Action)
+401 - In Burst Total Debuff Resistance + Sensitive ( Trance )
+402 - In Burst Debuff Stacking + (B) Super Muted (Ninja's Taste)
+403 - Step Distance + Knockback Distance ( Strider )
+404 - In Burst Stamina Auto Recovery + Stamina Auto Recovery (Fountain of Energy)
+406 - In Burst Melee ATK + Melee Special ATK Stamina ( Sector )
+407 - Melee ATK Specialist + Melee Special ATK Stamina (Artist's Arm)
+408 - Survial Instinct + Adrenaline Instinct (Concentration)
+409 - In Burst Guard Stamina + (B) Reduced Guard Damage (Nerves of Steel)
+410 - Covert Team + Hate Up↑ (Provocation)
+411 - Raging Blade + Raging Gun (Blood Soul)
+412 - In Burst Melee ATK + (B) Mid Air Melee ATK (Earth and Wind)
+413 - In Burst Gun ATK + (B) Oracle Absorption (Gunner's Zone)
+414 - HP + Leak Resistance (Soul Resist)
+416 - Steps Master + Stamina Auto Recovery (Chaser)
+417 - Athlete + Calm Breather ( Unlimited )
+418 - Oracle + Raging Gun (Blood Mind)
+419 - In Burst Reduced Guard Damage + HP (Dragon Scale)
+420 - Raging Blade + Just Guard Stamina Restore (Blood Rule)
+421 - Stamina + Burst Duration (Emperor's Time)
+422 - Medic + Aid Recovery Amount (Fairy Touch)
+424 - In Burs Prepared + Close Quarter DEF (Comand Desicion)
+425 - Oracle Absorption + Stamina Auto Recovery (Symmetry)
+426 - Athlete + Frugal (Infinity)
+435 - Guard Speed + Dexterous (Reflexes)
+436 - Gun Speed Specialist + Charge Ability Speed (High Output)
+437 - HP + Medic (Rescue)
+438 - Stamina + Item Speed (Nimble)
+439 - Firm Stand + Item Effect (Revial)
+441 - In Burst Hate Control + Guard Speed (Nonaggression)
+442 - Share the Wealth + Hate Up↓ (Gold Rush)
+443 - Hidden Attack + Debuff Stack (BackStab)
+444 - HP + Steps Master (Power Walker)
+445 - In Burst Auto Recovery + (B)Stamina Auto Recovery (Regeneration)
+446 - Dexterous + Gun Speed Specialist (Quick Action)
+447 - Stamina + Aid Recovery Amount ( Relief )
+448 - In Burst Guard Stamina + Guard Radius (Rock Solid)
+449 - In Burst Heal Bullet OP Use + Mutual Burst (Sympathy)
+450 - Acrobat Team + Beloved (Gale Formation)
+451 - Sword Master + Survial Instinct (Master Fencer)
+452 - In Burst Gun ATK + Gun Speed Specialist (Trick Shot)
+453 - Exterminator + Melee ATK (Mod Control)
+454 - Wrath of Revenge + Charisma (Passionate Leader)
+455 - Just Guard OP Restore + Devour HP Absorb
+456 - Athlete + Critical Evoke Rate (Hazardous)
+457 - Athlete + Just Guard Evoke Rate (Indignant)
+464 - In Burst Recovery Item Speed + Item Effect Duration (Medicine)
+465 - Guard Speed + Athlete (Active Guard)
+466 - Calm Breather + Stamina Auto Recovery (OverTime)
+468 - In Burst Heal Bullet OP Use + Charge Ability Speed (Medical Support)
+469 - In Burst Oracle Auto Recovery + Oracle (Fountain of Reason)
+470 - Knock Back Distance + Melee Special ATK Stamina↓ (TouchDown)
+472 - In Burst Melee ATK + Mutual Burst (Team Force)
+473 - Laser Master + Hate Up↑ (Signal of Engagement)
+474 - Stamina + Gun Focus Specialist (MarksManship)
+475 - ===Crash===
+476 - In Brust Guard Stamina + (B)Oracle Absorption (Reserved)
+478 - Frugal + Melee Specialist ATK Stamina (Astard Flow)
+479 - Charisma + Leak Resistance (Commander)
+481 - Muted + Aid Burst (Rabid Rescue)
+482 - In Burst Guard Stamina + (B)DEF ( Protection )
+489 - Debuff Stacking + Muted (Shadow Knock)
+490 - DEF + Melee ATK (Half-Stance)
+492 - Oracle + Devour HP Absorb (Mind Bite)
+493 - Reward Credits Up
+494 - Ignore Endurance
+495 - Ignore Time
+496 - Ignore Bond
+497 - Reward Rate Up
+498 - Bond Break Reward Up
+499 - Get Comsumable Item
+500 - Abandoned Arc Rare Drop Up
+501 - Same Arc Type as Equip Drop Up
+502 - Extra God Arcs Drop Up
+504 - Blood Awake Up
+505 - Blood Bullet Awake Up
+506 - Team AP Up
+507 - Additional GAP
+508 - Support Skill Uses +1
+509 - Support Redraw
+510 to 640 ====All Crash==== Dont test it !!!
+643 - Oracle↓ + Combo Master (Melee ATK Upgrade A)
+644 - Charisma + Hate Up↑ (Command Boost)
+647 - All out Attack + Oracle↓ (Melee Upgrade B)
+648 - Devour Bullet Power + Oracle↓ (Ammo Eater)
+659 - In Burst Gun ATK + (B) DEF↓ ( Berserker )
+662 - Resilience ( Check in game item for more details )
+663 - Enemy Calm↓ ( Agitator )
+664 - Hate Up↓ ( Air )
+665 - In Burst Hate Up↓ ( Air )
+666 - In Burst Upgrade Blood Arts
+
+-------------------------- 3 and 4 skill composition --------------------------
+
+
+134 - HP Up↑ + Oracle↑ + Stamina↑ (Triple Time) *Only 3 skill
+136 - Stamina + Just Guard Stam Restore + Devour HP Absorb (Siliver Arm) *~ 3 skill
+153 - In Burst Mid Air Melee ATK + charisma + Melee ATK (Wild Wolves) *Only 3 skill
+154 - DEF + Firm Stand + Reduced Guard Damage (Indomitable Spirit) *Only 3 skill
+162 - In Burst Oracle Absorb + (B) DEF + (B) Gun ATK (Bullet Lava) *Only 3 skill
+173 - HP + Firm Stand + Burst Duration (Transcendent) *Only 3 skill
+175 - All out Attack + DEF +Mid Air Jump (Air Crusher) *~ 3 skill
+179 - All out Attack + Wild Instinct + Adrenaline Rush (Rakshasa) *~ 3 skill
+182 - Sensitive + Muted↑ + Hate Up↓ (Ghostly Feet) *Only 3 skill
+183 - In Burst Heal Bullet OP Use↓ + Mid Air Jump + Oracle↑ (Aerial Gunner) *~ 3 skill
+184 - Bind + In Burst Debuff Stacking + Hate Up↑ (Manace) *~ 3 skill
+185 - Stamina + Guard Radius + Exterminator (Theory of Life) *~ 3 skill
+199 -Steps Master + Charisma + Melee ATK (Blood Wolves) *Only 3 skill (Like Good More)**
+204 - Item Speed + Item Effect + Item Effect Duration (Item Master) *Only 3 skill
+211 - Stun Resistance + Enemy Calm + Gun Focus Specialist (Cool Gunner) * ~ 3 skill
+216 - All out Attack + Burst Oracle Absorb + Sword Master (Radiance) *Only 3 skill
+217 - Guard Speed + Adrenaline Rush + Calm Breather (Bewitched) * ~ 3 skil
+219 - All out Attack + Sword Master + In Burst Oracle Absorb (Mighty Hand) *Only 3 skill
+220 - All out Attack + Melee ATK Specialist + DEF (Vanguard) * ~ 3 skill
+224 - Wrath of Revenge + DEF + Dexterous ( Driven ) * ~ 3 skill
+225 - Burst Duration + Devour Bullet Power + Dexterous (Tit for Tat)* ~ 3 skill
+226 - Venom + DEF + Devour HP Absorb (Snarling Beast) * ~ 3 skill
+234 - Burst Duration↓ + In Burst Auto Recovery + HP (Fountain of Youth) * ~ 3 skill
+240 - Steps Master + Charisma + Melee ATK (Good More) like blood wolves *Only 3 skill
+242 - Survival Instinct + Wild Instinct + Melee ATK Specialist (Fatal Blow) *Only 3 skill
+244 - Guard Speed + Stamina Auto Recovery + DEF (Preemptive Defense) *Only 3 skill
+248 - Giving + Survival Instinct + Wild Instinct (Limit Maneuver) * ~ 3 skill
+249 - All out Attack + DEF + Charge Ability Speed (On Slaught) * ~ 3 skill
+250 - Dexterous + Beloved + Charge Ability Speed (Quick Worker) * ~ 3 skill
+251 - HP + Giving + Burst Duration (Demigod) *~ 3 skill
+252 - All out Attack + Stamina Auto Recovery + Melee ATK Specialist (Hellbent) *Only 3 skill
+253 - Close Quarter ATK + Melee ATK Specialist + Charge Ability Specialist (Divisive Strike) *Only 3 skill
+267 - In Burst HP Recovery + Firm Stand + Mutual Burst + ATK Speed↓ (Sumburst)
+271 - All out Attack + DEF + Melee Special ATK Stamina Use↑ (Grand Reaper) *Only 3 skill
+272 - Stamina + Firm Stand + Stamina Auto Recovery (Tough Cookie) *Only 3 skill
+273 - Wrath of Revenge + Firm Stand + Close Quarter ATK (Bravery Heart) * ~ 3 skill
+276 - In Burst Gun ATK + Oracle↑+ Oracle Absorb (Gun's Soul) *~ 3 skill
+281 - In Burst Melee ATK + Friendship + Charge Ability Speed (Sir Wallace) * ~ 3 skill
+282 - HP + Item Speed + Item Effect Duration ( Handicap ) * ~ 3 skill
+287 - In Burst Melee ATK + Survival Instinct + Burst Duration (Battle Amore) *~ 3 skill
+303 - In Burst Hate Up Control↓ + (B)Hate Up↑ + Greedy (Miracle's Price) *Only 3 skill
+314 - In Burst Stamina Auto Recovery + Exterminator + JG Stamina Restore (Bannockburn) *~ 3 skill
+318 - HP + Athlete + Gun Focus Specialist (Bullet Biter) * ~ 3 skill
+319 - Share the Wealth + Connoisseur + Aid Burst (Just Reward) *Only 3 skill
+341 - Oracle Absorption + Sensitive + Muted (Reconnasissance) *Only 3 skill
+342 - Hidden ATK + Item Speed + Item Effect (Hand Pocket) *Only 3 skill
+343 - God of Rare Drops + Giving + Gourmet↓ + Devour HP Absorb (Foodie's Buddy)
+344 - Burst Oracle Auto Recovery + Medic + Aid Recovery Amount + Item Effect (Logistical Support)
+345 - Hidden Attack + Burst Super Muted + Muted + Hate Up↓ (Rogue)
+356 - Items for All + Lucky + Melee ATK Speed↓ (Golden Dragon Scale)* ~ 3 skill
+364 - In Burst Stamina Auto Recovery + Frugal↓ + Melee ATK Specialist (Granite) *~3 skill
+366 - Bomb Master + Pyro Master + Dexterous (Explosion) *Only 3 skill
+369 - Devour Bullet Power + In Burst Oracle Auto Recovery (Spirit Bullet) * Only 3 skill
+370 - Aid Recovery Amount + Giving + Mutual Burst + Muted (Field Manners)
+371 - Disable Homing + Medic + Trigger Happy (Blast Talk) * ~ 3 skill
+372 - Calm Breather↓+ Trigger Happy + Dexterous↓ (Full Bore) * Only 3 skill
+389 - In Burst Hate Up↑ + HP + Close Quarter DEF (Bait) *~ 3 skill
+390 - Wrath of Revenge + Combo Master + Stamina (All My Might) *Only 3 skill
+391 - Stamia↑+ Charisma↑+ Close Quaters ATK↑ (Picking a Fight) *Only 3 skill
+392 - In Burst Firm Stand + Athlete + Mutual Burst (Alway Active) * ~ 3 skill
+405 - Steps Master + Athlete + Double Jump + Step Distance (Shadow's End)
+415 - Leak Resistance + Jamming Resistance + Stun Resistance (Steadfast) *Only 3 skill
+423 - Athlete + Stun Resistance + Burst Duration (Jade Feather) *~ 3 skill
+427 - In Burst Prepared + (B)Reduced Guard Damage (Invisible Shield)
+428 - In Burst Link Aid Strengthen + Sensitive + Muted (Eyes on Enemy) *~ 3 skill
+429 - Enemy HP Vision + In Burst Link Aid Strengthen (Honors Student) *~ 3 skill
+430 - In Burst Heal Bullet OP Use + Aid Recovery Amount + Hate Up↓ (Lazarus) *~ 3 skill
+431 - In Burst Melee ATK + Dexterous↓ + Prepared (Stout Fight) *~ 3 skill
+432 - HP + Combo Master + Prepared (Like a Weed) *~ 3 skill
+433- Wrath of Revenge + Item Effect + Muted (Avenger) *~ 3 skill
+434 - Giving + Enemy Calm + Aid Burst (Tern Dress) *~ 3 skill
+440 - Prepared + Muted↓ + Hate Up↑ (Battle Drum) *Only 3 skill
+458 - In Burst Stamina Auto Recovery + Hate Up↑ + Charisma + Stamina (Mainstay)
+459 - Aid Burst + Mutual Burst + Close Quarter ATK (Great Highland) *Only 3 skill
+460 - In Burst Oracle Absorption + Stamina + Beloved (Enthrall)
+461 - HP + Reduced Guard + Combo Master (Red Hot Skin)
+462 - Devour OP Absorb + Devour Bullet Power + Burst Bullet Quantity (Soul Eater)
+463 - In Burst Devour Bullet Quantity + Aid Recovery Amount + Charisma (Savior) *Only 3 skill
+467 - Burst Hate Control↓ + Connoisseur + Athlete + Greedy (Golden Empire)
+471 - Speed↓ + Burst Duration + Firm Stand (Red Guard) * ~ 3 skill
+477 - Enemy Calm + Raging Gun + Raging blade (Blood Carnival) * ~ 3 skill
+483 - Sword Master + Wild Instinct + Trigger Happy (Carnage) * ~ 3 skill
+484 - Devour HP Absorb + HP + Guard Speed (Peek-A-Boo) * ~ 3 skill
+485 - In Burst Hate Control + Charisma + Exaggerated + Acrobat Team (Night of Lion)
+486 - In Burst Melee ATK + Oracle Absorption + Wild Instinct (Convicted) *~ 3 skill
+487 - In Burst Link Aid Strengthen + Giving + Item Speed (Reviver) *~ 3 skill
+488 - Knock Back + Firm Stand + Just Guard Stamina Restore (Immovable) *~ 3 skill
+491 - In Brust Firm Stand + HP + Burst Duration (Over Power) *Only 3 skill
+645 - Raging Blade + Melee ATK↓ + Gun ATK↓ (Raging Blade A) *~3 skill
+646 - Raging Gun + Melee ATK↓ + Gun ATK↓ (Raging Gun A) *~ 3 skill
+649 - Oracle + Calm Breather + Adrenaline Rush ( Melee Upgrade C ) *Only 3 skill
+650 - Raging Blade + Melee ATK↓ + Gun ATK↓ (Raging Blade) *~ 3 skill
+651 - Raging Gun + Melee ATK↓ + Gun ATK↓ (Raging Gun) *~ 3 skill
+652 - DEF + HP↓ + Oracle ↓ + Charisma (Vantage Point)
+653 - All out Attack + Stamina + Speed↓ + Melee ATK Specialist (Hard Puncher)
+654 - Wrath of Revenge + Firm Stand + Charisma↓ (Last Stand) *Only 3 skill
+655 - Sword Master + Combo Master + Athlete↓ + Calm Breather↓ (Whirling Blade)
+656 - Same 657 only change (B) Gun ATK↓and (B) Melee ATK will be↑ (Monk)
+657 - In Burst Recovery Item Speed + (B)Heal Bullet OP Use + (B)Melee ATK↓ + (B) Gun ATK↑ (Physician)
+658 - In Burst Recovery Item Speed + (B)Item Effect + (B)Item Effect Duration + (B)DEF↓ (Chemist)
+660 - In Burst Gun ATK + (B) DEF↓ + (B) Devour Bullet Quantity ( Loki ) *Only 3 skill
+661 - In Burst DEF + (B) Fim Stand + (B)Hate Up↓ ( Surt ) *Only 3 skill
+667 - All out Attack + Sword Master + Wild Instinct + Adrenaline Rush (Professional)
+668 - In Burst Recovery Item Speed + Item Speed + Item Effect + Item Effect Duration (Assist)
+669 - Vemon Resistance + Leak Resistance + Jamming Resistance + Stun Resistance (Body of Steel)
+670 - Just Guard OP Restore + JG Stamina Restore + JG HP Restore (Mastery) *Only 3 skill
+671 - In Burst Link Aid Strengthen + Medic + Aid Recovery Amount + Aid Burst ( Medical Trainer )
+672 - Exterminator + Sensitive + Close Quarter DEF + Close Quarter ATK (Trouble Heroes)
+673 - Guard Radius + Step Distance + Muted + Melee ATK ( Ember )
+674 - In Burst Gun ATK + Frugal + Trigger Happy + Gun ATK ( Bombardier )
+675 - Wrath of Revenge + Burst Duration + Aid Burst + Mutual Burst (Serpent's Hiss)
+676-Devour Bullet Power + (B)Devour Bullet Quantity + Devour Oracle Absorb + Devour HP Absorb (Rovenous Fighter)
+677 - God of Rare Drop + Covert Team + Acrobat Team + Charisma (Wild Hunt)
+678 - In Burst Melee ATK + Combo Master + Melee ATK Specialist + Melee ATK (Justice Blade).
+679 - Athlete + Step Master + Calm Breather + Stamina Auto Recovery (Physical Keeper).
+680 - In Burst Melee ATK HP Absorb + (B)Auto Recovery + JG HP Restore + Devour Oracle Absorb (Vitality Keeper)
+681 -In Burst Oracle Absorption + (B)Oracle Auto Recovery + Oracle Absorb +Devour Oracle Absorb (Oracle keeper).
+682 -Devour Bullet Power + In burst Devour Bullet Quantity + Mutual Burst (Devouring Shooter) *~3 skill
+683 -In Burst reduced Guard damage + Guard speed + Reduced Guard damage+Guard radius (Badger)
+684 - Stamina + combo master + Athlete + Melee ATK (Blitz skill)
+685 - Stamina + Athlete + Melee ATK Specialist + Melee ATK (Deadly Blow)
+686 - Stamina + Athlete + Charge ability speed + Melee ATK (Haste)
+687 - Stamina + Step Distance + Athlete + Melee ATK (Leap)
+688 - Oracle + Muted + Hate Up↓+ Gun ATK (Seclusion)
+689 - Oracle + Muted + Frugal + Gun ATK (Replenishment)
+690 - Oracle + Muted + Gun speed Specialist + Gun ATK (Advance)
+691 - Covert Team + Acrobat Team + Charisma (Attractive) *Only 3 skill
+692 - In burst Devour bullet + Mutual burst + Devour HP (Active) *~ 3 skill
+693 - In Burst Melee ATK + (B) DEF + Burst Duration (Aggressive) *~3 skill
+694 - Medic + Aid Recovery Amount + Aid burst (Kind Mother's hand)*~3 skill
+695 - In Burst Auto Recovery + DEF + HP (Stern Mother's heart)*~3 skill .
